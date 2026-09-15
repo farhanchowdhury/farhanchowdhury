@@ -1,7 +1,7 @@
 - I’m Farhan.
 - 👀 I’m interested in using my mouse.
 - 🌱 I’m currently learning how to type.
-- 💞️ I’m looking to collaborate on the development of Spellman’s code.
+- 💞️ I’m looking to collaborate on the development of Spellman’s codebase.
 - 📫 How to reach me: Google voice: +13478155779
 
 <!---
