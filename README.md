@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @farhanchowdhury
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Farhan.
+- 👀 I’m interested in using my mouse.
+- 🌱 I’m currently learning how to type.
+- 💞️ I’m looking to collaborate on developing Spellman’s codebase
+- 📫 How to reach me Google voice: +13478155779
 
 <!---
 farhanchowdhury/farhanchowdhury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
