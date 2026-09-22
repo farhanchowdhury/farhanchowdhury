@@ -1,7 +1,7 @@
-- I αm Fαrhαn.
-- 👀 I’m interested in using my mouse.
-- 🌱 I’m currently learning when to type.
-- 💞️ I’m looking to collaborate on the development of Spellman’s code.
+- 👋 Hi, I'm Fαrhαn.
+- 👀 I’m interested in music, augmented reality, and event-driven architecture (EDA).
+- 🌱 I’m currently learning which messaging tools to incorporate when developing on top of existing systems or            building new ones.
+- 💞️ I’m looking to collaborate on the development of Spellman’s code, a native backdrop for automated machine            learning frameworks [see Brevelode/Zaperidge].
 - 📫 How to reach me: Google voice: +13478155779
 
 <!---
